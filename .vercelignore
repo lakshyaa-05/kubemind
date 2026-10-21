@@ -1,0 +1,9 @@
+.env
+.vercel
+.venv
+DATA
+processed_data
+DOCS
+evals
+ui
+*.md
